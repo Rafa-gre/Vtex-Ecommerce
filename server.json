@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-pro-max-apple-128gb-grafite-67-cam-tripla-12mp-ios/magazineluiza/155595900/13ad85d2917eedd8bfa455095f2a35ed.jpg",
+            "name": "Iphone",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-pro-max-apple-128gb-grafite-67-cam-tripla-12mp-ios/magazineluiza/155595900/13ad85d2917eedd8bfa455095f2a35ed.jpg",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 8000
+        },
+        {
+            "id": 3,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-pro-max-apple-128gb-grafite-67-cam-tripla-12mp-ios/magazineluiza/155595900/13ad85d2917eedd8bfa455095f2a35ed.jpg",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 8000
+        },
+        {
+            "id": 4,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-pro-max-apple-128gb-grafite-67-cam-tripla-12mp-ios/magazineluiza/155595900/13ad85d2917eedd8bfa455095f2a35ed.jpg",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 8000
+        }
+    ]
+}
