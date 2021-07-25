@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import api from '../services/api'
-import { useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom'
 
 const Form = (props: any) => {
     const history = useHistory()
